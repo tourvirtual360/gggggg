@@ -1,0 +1,38 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Conheça nossa carreta de Tomografia com este Tour Virtual.
+
+### Title
+tour.name = Carreta Tomografia
+
+## Skin
+
+### Multiline Text
+HTMLText_14CE38E3_073A_4926_4197_1D8857AFF27B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:21px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_0ACE48BA_071B_C921_419A_4509AA9CD7A2.label = BANHEIRO
+panorama_0B2F376C_071A_4722_4165_61D9CCD6066C.label = EXTERNA_01
+panorama_0B31063E_071A_7921_4199_F12C7D3B5D08.label = EXTERNA_02
+panorama_0B312CD4_071A_4962_419C_431DF87008B2.label = TOMOGRAFIA_01
+panorama_0B3134AD_071A_3922_4198_E556FA528D1F.label = EXTERNA_03
+panorama_0B31AAE8_0719_C922_4189_3FAD7A877845.label = TOMOGRAFIA_02
+panorama_0B31CF63_071A_4726_4197_0D08BB47794E.label = SALA DE ESPERA
+panorama_170A858C_072A_3BE2_4186_F009290F77FF.label = SALA DE COMANDO
+
+## Action
+
+### URL
+LinkBehaviour_24A42804_2A65_62A1_41C3_BB07BFC78FE4.source = https://gbringel.com/
+LinkBehaviour_24A75F34_2A6E_9EE1_41C3_9BE7E539CBE3.source = https://gbringel.com/
+LinkBehaviour_24BD1FD7_2A62_9DAF_417B_F15EA6E859C5.source = https://www.instagram.com/grupo.bringel/
+LinkBehaviour_3A66FDAB_2A65_7DE7_41B1_DBF14D16BE22.source = https://www.instagram.com/grupo.bringel/
